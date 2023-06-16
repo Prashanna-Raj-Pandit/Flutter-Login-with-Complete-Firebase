@@ -4,4 +4,4 @@
 
 ## Splash Screen according to device theme mode:
 
-<img width="400" height="550" src="login_signup_images/Simulator Screenshot - iPhone 14 - 2023-06-16 at 21.38.41.png">
+<img width="350" height="550" src="login_signup_images/Simulator Screenshot - iPhone 14 - 2023-06-16 at 21.38.41.png">
