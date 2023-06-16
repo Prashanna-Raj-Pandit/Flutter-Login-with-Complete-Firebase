@@ -4,8 +4,8 @@
 
 
 
-<img width="800" height="550" src="login_signup_images/light mode.png">       
-<img width="800" height="550" src="login_signup_images/dark mode.png">
+<img width="900" height="550" src="login_signup_images/light mode.png">       
+<img width="900" height="550" src="login_signup_images/dark mode.png">
 
 ## Forget password
 
