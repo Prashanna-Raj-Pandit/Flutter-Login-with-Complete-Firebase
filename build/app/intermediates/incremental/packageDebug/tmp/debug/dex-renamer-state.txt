@@ -1,0 +1,4 @@
+#Thu Jun 01 12:22:13 NPT 2023
+base.0=/Users/prashannaraj/StudioProjects/flutter_login_with_complete_backend_firebase/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

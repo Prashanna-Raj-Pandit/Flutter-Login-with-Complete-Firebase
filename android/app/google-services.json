@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99614575760",
+    "project_id": "codesync-e7367",
+    "storage_bucket": "codesync-e7367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99614575760:android:81b7d68704e1cec119dc15",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_with_complete_backend_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99614575760-gbsdoldddi0ejuts26e32hk3udmb61i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPF65ECxE_OHU0uRO0ArfG-Sla_sc1hhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99614575760-gbsdoldddi0ejuts26e32hk3udmb61i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
